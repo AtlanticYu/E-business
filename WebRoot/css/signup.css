@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+
+#signup-header {
+	width: 100%;
+	height: 15%;
+	/* color:#ffffff; */
+	background-color: #f3f3f3;
+	box-shadow: 0px 4px 5px #f2f2f2;
+	display: block;
+}
+
+#e-logo {
+	display: block;
+	float: left;
+	padding: 0, 0, 1cm, 0;
+}
+
+#e-logo-title{
+	float:left;
+	color:black;
+	font-size:1.5em;
+	height: 100%;
+	width:15%;
+	line-height:150px;
+}
+#signuped{
+	float:right;
+	color:black;
+	font-size:1.5em;
+	height: 100%;
+	width:20%;
+	line-height:150px;
+}
+
+#signup-body{
+	width:30%;
+	margin: 120px auto;
+}
