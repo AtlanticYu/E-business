@@ -1,0 +1,137 @@
+@CHARSET "UTF-8";
+
+.a {
+	margin: 0 18% auto;
+}
+.b{
+	color:red;
+}
+----------------------
+.dh {
+	
+}
+
+.hd {
+	width: 1190px;
+	height: 170px;
+}
+
+.lo {
+	text-align: center;
+	width: 190px;
+	float: left;
+	background-color: #fff;
+}
+
+.lo-im {
+	width: 190px;
+	height: 110px;
+}
+.im-sz{
+	width:100%;
+	height: 110px;
+}
+.sec {
+	height: 60px;
+	width: 1000px;
+	float: right;
+}
+
+.se {
+	margin-top: 50px;
+}
+
+.sec-dh {
+	margin-top: 30px;
+	width: 700px;
+	float: left;
+}
+
+.ce {
+	margin-bottom: 30px;
+}
+
+.fl {
+	margin-top: 10px;
+	height: 480px;
+	width: 190px;
+	background-color: #f0f3ef;
+}
+
+.u {
+	float: left;
+}
+
+.lgt {
+	float: left;
+	height: 480px;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+.gt {
+	float: left;
+	width: 190px;
+	margin-right: 10px;
+}
+
+.gt-a {
+	width: 190px;
+	height: 150px;
+	margin-top: 10px;
+}
+
+.dlg {
+	width: 190px;
+	height: 480px;
+	float: left;
+}
+
+.dl {
+	height: 150px;
+	background: #f0f3ef;
+	margin-top: 10px;
+	text-align: center;
+}
+
+.dl-im {
+	margin-bottom: 13px;
+}
+
+.dl-bf {
+	margin-left: 20px;
+	float: left;
+}
+
+.dl-br {
+	float: right;
+	margin-right: 20px;
+}
+
+.gong {
+	height: 310px;
+	width: 190px;
+	background: #f0f3ef;
+}
+.gong-t{
+	height:40px;
+}
+a:focus {
+	text-decoration: none
+}
+.gong-zhan{
+	position: relative;
+    padding-top: 8px;
+    margin: 0 15px;
+    height: 280px;
+    background: #F8F8F8;
+}
+.gong-zhan-news{
+	line-height: 22px;
+    max-width: 160px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    color: #999;
+    list-style: none;
+}
