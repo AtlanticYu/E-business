@@ -1,0 +1,43 @@
+@CHARSET "UTF-8";
+
+.qu {
+	margin: 0 10% auto;
+}
+
+.ln {
+	width: 30%;
+	height: 30%;
+	float: right;
+}
+
+body {
+	background-image: url('../img/008.jpg');
+	backgroung-size: 100% 100%
+}
+
+label {
+	color: white;
+}
+
+.a {
+	float: right;
+	width: 45%;
+}
+
+.c {
+	float: left;
+	width: 45%;
+}
+
+.b {
+	text-align: center;
+	width: 100%;
+}
+.d{
+	color:#7D2D2D;
+}
+.e{
+	width:60%;
+	height:55%;
+	float:left;
+}
