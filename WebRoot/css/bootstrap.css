@@ -3111,7 +3111,12 @@ fieldset[disabled] .btn-default.focus {
 }
 .btn-default .badge {
   color: #fff;
+<<<<<<< HEAD
   background-color: #333;
+=======
+  background-color: #FF0000;
+  
+>>>>>>> 678fe2ebe12667b1ecabe2d4f077293149a1a88a
 }
 .btn-primary {
   color: #fff;
