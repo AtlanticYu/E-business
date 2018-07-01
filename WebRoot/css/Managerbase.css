@@ -1,0 +1,84 @@
+body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, img {
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+    font-size: 16px;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.middle {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+a {
+    color: #3e3e3e;
+    text-decoration: none;
+}
+
+img, input, button, textarea {
+    border: none;
+    padding: 0;
+    margin: 0;
+    outline-style: none;
+}
+
+ul {
+    list-style: none;
+}
+
+input {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+
+img {
+    border: 0;
+    vertical-align: middle;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 100%;
+}
+
+s, i, em, u {
+    font-style: normal;
+    text-decoration: none;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+
+.clearfix:before,
+.clearfix:after {
+    content: "";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+    /*IE/7/6*/
+}
