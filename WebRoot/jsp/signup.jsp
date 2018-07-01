@@ -27,7 +27,7 @@
 <body>
 	<div id="signup-header">
 		<div id="e-logo">
-			<a href="#"><img alt="杂货铺" src="imgs/logo.jpg" height=90%></a>
+			<a href="<%=basePath%>StoreProscenium.jsp"><img alt="杂货铺" src="imgs/logo.jpg" height=90%></a>
 		</div>
 		<div id="e-logo-title">欢迎注册</div>
 		<div id="signuped">
